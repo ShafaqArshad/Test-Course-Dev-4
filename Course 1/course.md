@@ -1,7 +1,7 @@
 courseName: Course 1
 description: New Multiple Course For Test
 isAvailable: true
-isPremium: true
+isPremium: false
 categories: 
     - docker
     - golang
