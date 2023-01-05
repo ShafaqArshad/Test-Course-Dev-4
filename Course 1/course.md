@@ -7,5 +7,5 @@ categories:
     - golang
     - python
     - kubernetes
-learningPaths: 
+learningPaths: []
 complexity: advance
